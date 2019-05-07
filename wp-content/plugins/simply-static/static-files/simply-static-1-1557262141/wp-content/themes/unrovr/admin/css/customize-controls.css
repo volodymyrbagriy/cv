@@ -1,0 +1,24 @@
+
+
+.customize-control .customize-control-title {
+	margin-bottom: 0px;
+}
+
+.customize-control .customize-control-description {
+	font-size: 11px;
+	margin-bottom: 0px;
+}
+
+.customize-control .customize-control-description p {
+	font-size: 11px;
+	margin: 0px;
+}
+
+.customize-control-checkbox label {
+	display: inline-block;
+}
+
+.customize-control-range input {
+	width: 100%;
+}
+

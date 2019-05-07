@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>surf &#8211; Dmytro Barabash</title>
+	<atom:link href="https://volodymyrbagriy.github.io/cv/tag/surf/feed/" rel="self" type="application/rss+xml" />
+	<link>https://volodymyrbagriy.github.io/cv</link>
+	<description>Developer</description>
+	<lastBuildDate>
+	Tue, 07 May 2019 16:06:55 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Finding Perfect Spot For Surfing</title>
+		<link>https://volodymyrbagriy.github.io/cv/2016/06/13/finding-perfect-spot-for-surfing/</link>
+				<comments>https://volodymyrbagriy.github.io/cv/2016/06/13/finding-perfect-spot-for-surfing/#respond</comments>
+				<pubDate>Mon, 13 Jun 2016 09:44:23 +0000</pubDate>
+		<dc:creator><![CDATA[vovito]]></dc:creator>
+				<category><![CDATA[Life]]></category>
+		<category><![CDATA[sport]]></category>
+		<category><![CDATA[surf]]></category>
+
+		<guid isPermaLink="false">http://themes.pixelwars.org/empathy/?p=394</guid>
+				<description><![CDATA[It may comfort you to know that Fry&#8217;s death took only fifteen seconds, yet the pain was so intense, that it felt to him like fifteen years.]]></description>
+								<content:encoded><![CDATA[
+<a href='https://volodymyrbagriy.github.io/cv/b7/'><img width="540" height="405" src="https://volodymyrbagriy.github.io/cv/wp-content/uploads/2016/06/b7.jpg" class="attachment-large size-large" alt="" /></a>
+<a href='https://volodymyrbagriy.github.io/cv/b9/'><img width="540" height="691" src="https://volodymyrbagriy.github.io/cv/wp-content/uploads/2016/06/b9.jpg" class="attachment-large size-large" alt="" /></a>
+<a href='https://volodymyrbagriy.github.io/cv/b8/'><img width="540" height="373" src="https://volodymyrbagriy.github.io/cv/wp-content/uploads/2016/06/b8.jpg" class="attachment-large size-large" alt="" /></a>
+<a href='https://volodymyrbagriy.github.io/cv/slide-03-big/'><img width="540" height="360" src="https://volodymyrbagriy.github.io/cv/wp-content/uploads/2016/06/slide-03-big.jpg" class="attachment-large size-large" alt="" /></a>
+<a href='https://volodymyrbagriy.github.io/cv/slide-02-big/'><img width="540" height="360" src="https://volodymyrbagriy.github.io/cv/wp-content/uploads/2016/06/slide-02-big.jpg" class="attachment-large size-large" alt="" /></a>
+
+<p>It may comfort you to know that Fry&#8217;s death took only fifteen seconds, yet the pain was so intense, that it felt to him like fifteen years.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://volodymyrbagriy.github.io/cv/2016/06/13/finding-perfect-spot-for-surfing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Scrap Surf</title>
+		<link>https://volodymyrbagriy.github.io/cv/2016/05/22/scrap-surf/</link>
+				<comments>https://volodymyrbagriy.github.io/cv/2016/05/22/scrap-surf/#respond</comments>
+				<pubDate>Sun, 22 May 2016 09:59:31 +0000</pubDate>
+		<dc:creator><![CDATA[vovito]]></dc:creator>
+				<category><![CDATA[Street]]></category>
+		<category><![CDATA[ocean]]></category>
+		<category><![CDATA[surf]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://themes.pixelwars.org/empathy/?p=388</guid>
+				<description><![CDATA[You don&#8217;t know how to do any of those. It&#8217;s a T. It goes &#8220;tuh&#8221;. Okay, I like a challenge. Son, as your lawyer, I declare y&#8217;all are in a 12-piece bucket o&#8217; trouble. But I done struck you a deal: Five hours of community service cleanin&#8217; up that ol&#8217; mess you caused. I feel... <p class="more"><a class="more-link" href="https://volodymyrbagriy.github.io/cv/2016/05/22/scrap-surf/">Read More</a></p>]]></description>
+								<content:encoded><![CDATA[<p><iframe src="https://player.vimeo.com/video/50315573?color=8ACB82&amp;title=0&amp;byline=0&amp;portrait=0" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>You don&#8217;t know how to do any of those. It&#8217;s a T. It goes &#8220;tuh&#8221;. Okay, I like a challenge. Son, as your lawyer, I declare y&#8217;all are in a 12-piece bucket o&#8217; trouble. But I done struck you a deal: Five hours of community service cleanin&#8217; up that ol&#8217; mess you caused. I feel like I was mauled by Jesus. Tell her you just want to talk. It has nothing to do with mating.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://volodymyrbagriy.github.io/cv/2016/05/22/scrap-surf/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
